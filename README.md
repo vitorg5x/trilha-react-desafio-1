@@ -3,7 +3,7 @@
 <strong>❯❯:zap: Challenge:</strong>
 - Create a calculator with Javascript & React.
 
-<strong>❯❯:compass: Goal:</strong>
+<strong>❯❯:compass: Description:</strong>
 - Create a basic calculator with your components and interface applying all concepts learned during React's course.
 
 <strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
