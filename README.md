@@ -4,7 +4,7 @@
 - Create a calculator with Javascript & React.
 
 <strong>❯❯:compass: Goal:</strong>
-- Create all basic calculator components and interface, applying all concepts learned during the React course.
+- Create a basic calculator with your components and interface applying all concepts learned during React's course.
 
 <strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
 <div>
